@@ -92,16 +92,16 @@
       }
     },
     {
-      "payloadId": "a36xq-A366WVLS3AYG1",
-      "displayName": "Galaxy A36 5G | Kernel 6.6.46",
-      "models": ["SM-A366W"],
-      "kernelVersions": ["6.6.46"],
+      "payloadId": "a36xq-A366EXXSACZE4",
+      "displayName": "Galaxy A36 5G | Kernel 6.6.98",
+      "models": ["SM-A366E"],
+      "kernelVersions": ["6.6.98"],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A336EXXSACZE4/cve-2026-43499-app.so",
         "size": 128688
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A366WVLS3AYG1-kdp",
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A366EXXSACZE4-kdp",
         "size": 4873608
       }
     }
